@@ -3,7 +3,7 @@
 My name is ***Alana Bonfiglio***. I am a *journalism* major with minors in *psychology* and *marketing* at **Lehigh University** and will be using this site for my **Data Journalism course.**
 Learn more about me on my [LinkedIn page](https://www.linkedin.com/in/alana-bonfiglio-954a801bb/).
 
-<img src="https://thebrownandwhite.com/wp-content/uploads/2020/08/Alana-Bonfiglio_avatar_1598554235.jpg" width="400" height="600" />
+<img src="https://thebrownandwhite.com/wp-content/uploads/2020/08/Alana-Bonfiglio_avatar_1598554235.jpg" width="200" height="350" />
 
 ## Lehigh University Class of 2024 Enrollment by College
 
