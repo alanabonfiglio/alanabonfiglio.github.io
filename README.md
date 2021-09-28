@@ -18,7 +18,7 @@ Learn more about me on my [LinkedIn page](https://www.linkedin.com/in/alana-bonf
 </p>
 
 <p align="center">
-  <img src="https://github.com/alanabonfiglio/alanabonfiglio.github.io/blob/main/What%20is%20the%20ethnic%20breakdown%20of%20Bethlehem%20Public%20Schools.png?raw=true" width="600" height=475" />
+  <img src="https://github.com/alanabonfiglio/alanabonfiglio.github.io/blob/main/What%20is%20the%20ethnic%20breakdown%20of%20Bethlehem%20Public%20Schools.png?raw=true" width="600" height=425" />
  </p>
 
 Source:
