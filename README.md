@@ -28,17 +28,13 @@ Source:
 <p align="center">
   This infographic, “How does the ethnic breakdown of Bethlehem Area School District Public Schools students compare to students in Pennsylvania?” utilized the data source Public School Review of the Bethlehem Area School District 2021. This data source had a breakdown of BASD students enrolled in the 2021-2022 school year by ethnicity, as well as a breakdown of all Pennsylvania public school students enrolled in the 2021-2022 school year by ethnicity. This infographic utilizes pie charts to compare the ethnic breakdown of the BASD to the ethnic breakdown of all Pennsylvania public schools. Key findings include that there is high Hispanic student representation in the BASD compared to all Pennsylvania public schools and low Black student representation in the BASD compared to all Pennsylvania public schools. Overall, the ethnic breakdown of the BASD is similar to that of Pennsylvania public schools, but slightly more diverse. This implies that the community of Bethlehem itself is diverse and a strong representation of the ethnic breakdown of the state of Pennsylvania.
    </p>  
-<p align="center">
-**The Lehigh Lafayette Rivalry
-**</p>  
-<p align="center">
-_TimelineJS Template_
-</p> 
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=14s8rZHZ7SruVNccNIZDK-zAFCbqXGMn9qRkzhnZlK8I&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
-<p align="center">
-**LGBTQ+ Legislation in America**
-</p>  
-<p align="center">
+**The Lehigh Lafayette Rivalry**
+
 *TimelineJS Template*
-</p> 
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=14s8rZHZ7SruVNccNIZDK-zAFCbqXGMn9qRkzhnZlK8I&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+**LGBTQ+ Legislation in America**
+
+*TimelineJS Template*
+
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1n1VhtNsFOKcxioU_cbPXevMylN-0NrnojI3EH8axwT0&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe> 
