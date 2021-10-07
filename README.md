@@ -37,4 +37,4 @@ This graphic displays information from [CNN](https://www.cnn.com/2015/06/19/us/l
 <p align="center">
   <img src="https://github.com/alanabonfiglio/alanabonfiglio.github.io/blob/main/Chartbuilder%20project%202.png?raw=true" />
  </p>
- This bar chart utilizes data from [Lehigh University’s Office of Institutional Research & Strategic Analytics](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf) to display the percentages of the Lehigh student body enrolled in each Lehigh college in 2019.
+ This bar chart utilizes data from [Lehigh University’s Office of Institutional Research & Strategic Analytics](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf) to display the percentages of the Lehigh student body enrolled in each Lehigh college in 2019. The chart was created using Chartbuilder.
