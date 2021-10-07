@@ -17,7 +17,7 @@ Source:
  
  This data, provided by the Lehigh University Office of Institutional Research & Strategic Analytics in Fall 2020, breaks down the Lehigh Class of 2024 by college: Arts & Sciences, Engineering & Applied Science, Arts & Engineering, Business and Intercollegiate Programs. Key findings from this data include the high percentage of Arts & Sciences students and very low number of Arts & Engineering students, implying the high level of interest in Arts & Sciences studies and lower interest in Arts & Engineering studies. The graphic was created with Canva. 
 
-## The diversity of the Bethlehem School District
+## Diversity of the Bethlehem School District
 <p align="center">
   <img src="https://github.com/alanabonfiglio/alanabonfiglio.github.io/blob/main/What%20is%20the%20ethnic%20breakdown%20of%20Bethlehem%20Public%20Schools.png?raw=true" width="600" height="425" />
  </p>
@@ -33,6 +33,7 @@ This graphic displays information from [Wikipedia](https://en.wikipedia.org/wiki
 ## LGBTQ+ Legislation in America
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1n1VhtNsFOKcxioU_cbPXevMylN-0NrnojI3EH8axwT0&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe> 
 This graphic displays information from [CNN](https://www.cnn.com/2015/06/19/us/lgbt-rights-milestones-fast-facts/index.html) and [PBS](https://www.pbs.org/wgbh/americanexperience/features/stonewall-milestones-american-gay-rights-movement/) about the history of LGBTQ+ legislation in America. It begins with President Eisenhower’s Executive Order 10450 in 1953 and concludes with President Joe Biden’s un-banning of transgender Americans from the military in 2021. This timeline was created to shed light on a piece of history that is often left out of textbooks. It allows us to understand how members of the LGBTQ+ community have been treated under American law. Of course, this graphic does not pay tribute to the thousands of Americans who fought for these legislative changes, but hopefully it influences us to dedicate ourselves to an equitable future. The timeline was created with the *TimelineJS* tool. 
+## Lehigh Enrollment
 <p align="center">
   <img src="https://github.com/alanabonfiglio/alanabonfiglio.github.io/blob/main/Chartbuilder%20project%202.png?raw=true" />
  </p>
