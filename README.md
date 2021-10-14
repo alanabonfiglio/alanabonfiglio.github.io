@@ -43,12 +43,12 @@ This graphic displays information from [CNN](https://www.cnn.com/2015/06/19/us/l
   <img src="https://github.com/alanabonfiglio/alanabonfiglio.github.io/blob/main/chartbuilderhw.png?raw=true" />
  </p>
 This chart displays data from [Kaggle](https://www.kaggle.com/gunay01/tourism-datasetcsv) about the five most visited countries in the world during 2000 and 2016. The chart was created using Chartbuilder. Despite 16 years passing between the data collection, the five most visited countries remain the same. The order of the most visited countries remained the same except China surpassed Italy in its number of visitors in 2016. All five countries experienced increases in tourism from 2000 to 2016. This is likely due to the increased accessibility of travel, as plane tickets on average cost less in 2016 than 2000. It will also be interesting to see how the most visited countries change after the pandemic. For obvious reasons, tourism numbers were down in 2020, but it will be interesting to see if people continue to travel less or travel to different countries in the aftermath of COVID-19. 
-## Lehigh's undergraduate colleges enrollment over time
+## How has Lehigh's undergraduate colleges enrollment changed over time?
 <p align="center">
   <img src="https://github.com/alanabonfiglio/alanabonfiglio.github.io/blob/main/Lehigh's_undergraduate_colleges_enrollment_over_the_past_5_years_A_&_S_Business_Engineering_chartbuilder.png?raw=true" />
  </p>
 This line graph shows us the undergraduate enrollment in Lehigh's three undergraduate colleges over the past five year, indicating the rising and following popularity of various areas of study. The chart shows that over the past five years Lehigh's College of Arts & Sciences has been the most popular of its three undergraduate colleges. It also shows us that enrollment is the College of Arts & Sciences has increased consistently over the last five years. The data shows that from Fall 2017 to Fall 2020, enrollment in the Engineering College decreased. This suggests a declining popularity in Engineering disciplines. However, enrollment in the Engineering college increased from the Fall 2020 to Fall 2021, which suggests Engineering may be gaining popularity back at Lehigh in the next few years. Enrollment in Lehigh's business school has remained consistent over the past five years. This bar chart utilizes data from [Lehigh University’s Office of Institutional Research & Strategic Analytics](https://oirsa.lehigh.edu/university-profile). 
-## Countries' GDP and Happiness
+## Is there a correlation between a country's GDP and Life Satisfaction?
 <p align="center">
   <img src="https://github.com/alanabonfiglio/alanabonfiglio.github.io/blob/main/GPD_and_Life_Satisfaction_of_Various_Countries_Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_chartbuilder.png?raw=true" />
  </p>
