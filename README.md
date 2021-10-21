@@ -58,3 +58,5 @@ Firearm Mortality by State
   <img src="https://github.com/alanabonfiglio/alanabonfiglio.github.io/blob/main/Firearm_Mortality_of_the_Ten_Deadliest_States_y_chartbuilder.png?raw=true" />
  </p>
 This scatter plot displays data from the [National Center for Health Statistics](https://www.cdc.gov/nchs/pressroom/sosmap/firearm_mortality/firearm.htm) on the ten states with the highest levels of gun violence in the U.S. The states are displayed on the y-axis and the number of deaths per 100,000 total poulation is displayed on the x-axis. This chart allows us to see where high levels of gun violence occur as well as to compare high rates of gun violence between states. This could influence gun safety laws. The chart was made with Chart Builder. 
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1KrJ92IC7PqBNYW_CqQoawojtfuES6riR" width="640" height="480"></iframe>
